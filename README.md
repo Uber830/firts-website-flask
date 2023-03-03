@@ -12,8 +12,12 @@ First, clone the repo
 git clone git@github.com:Uber830/firts-website-flask.git
 ```
 
-move to the folder
+move inside the folder
 
 ```sh
-cd firts-website-flask
+cd firts-website-flask/
+```
+run the following command
+```
+pip install -r requirements.txt
 ```
